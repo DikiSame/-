@@ -1,2 +1,1 @@
-# -
-我是菜鸡QAQ
+first_repo
